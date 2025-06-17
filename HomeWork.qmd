@@ -26,7 +26,8 @@ In this brief analysis, we explore the relationship between a car's **horsepower
 [**R Documentation Link**](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/mtcars).
 
 ```{r}
-head(mtcars)
+library(knitr)
+kable(head(mtcars))
 
 ```
 
