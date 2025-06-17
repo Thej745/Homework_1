@@ -1,5 +1,5 @@
 ---
-title: "Motor Car trends"
+title: "**Motor Car trends**"
 author: "Thej Ratheesh"
 format:
   html:
